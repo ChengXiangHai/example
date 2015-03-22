@@ -1,0 +1,4 @@
+LIBRARY Dll
+EXPORTS
+CreateIMyInterface
+ReleaseIMyInterface
